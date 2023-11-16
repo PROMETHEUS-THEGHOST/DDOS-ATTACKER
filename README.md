@@ -14,7 +14,9 @@ A Distributed Denial of Service (DDoS) attack is a type of denial of service att
 
 To get started with the project, simply clone the repository to your local machine:
 
-
+```
+https://github.com/PROMETHEUS-THEGHOST/DDOS-ATTACKER.git
+```
 
 ## Requirements
 
